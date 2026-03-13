@@ -81,3 +81,16 @@ To scale this platform to 1 million users, I would implement the following:
 
 ---
 *Developed for the Rival Assessment.*
+
+## 📸 Website Preview
+
+![Screenshot 1](./RIVAL%20SS%201.png)
+![Screenshot 2](./RIVAL%20SS%202.png)
+![Screenshot 3](./RIVAL%20SS%203.png)
+![Screenshot 4](./RIVAL%20SS%204.png)
+![Screenshot 5](./RIVAL%20SS%205.png)
+![Screenshot 6](./RIVAL%20SS%206.png)
+![Screenshot 7](./RIVAL%20SS%207.png)
+![Screenshot 8](./RIVAL%20SS%208.png)
+![Screenshot 9](./RIVAL%20SS%209.png)
+
