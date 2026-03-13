@@ -1,0 +1,5 @@
+{
+  "name": "blogsphere-engine",
+  "description": "A production-ready secure blog platform with authentication, private dashboard, public feed, and social features.",
+  "requestFramePermissions": []
+}
